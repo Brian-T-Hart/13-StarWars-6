@@ -1,8 +1,8 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "view and add star wars characters",
+  "main": "server6.js",
   "dependencies": {
     "body-parser": "^1.18.0",
     "express": "^4.15.4",
@@ -13,6 +13,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server6.js"
   },
-  "author": "",
+  "author": "Brian",
   "license": "ISC"
 }
